@@ -2,7 +2,7 @@
 Lab Project In Computer Science
 Shell Pre-created but the code itself is my own
 To Compile: gcc ticTacProg.c
-To run: ./a.out or a.exe depending on compiler
+To run: ./a.out
 
 ticTacShell.c
 
