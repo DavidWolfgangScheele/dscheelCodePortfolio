@@ -1,0 +1,18 @@
+/************************
+David Scheele
+CPSC 1020 1, F16
+Programming Assignment 2
+dscheel
+************************/
+
+	This program works using a class to store and set values which
+are used in the main. It accepts an input file and reads in the values
+for the class to store, use, manipulate, etc. To compile, simply type
+"make" as the Makefile for this will compile the program. Then, type "make run"
+to run it, and "make clean" to clear all unneeded files afterwards.
+One of the primary issues I had was with the calculations, as I was having
+issues storing the values and resetting them, as they kept being incremented
+in the calculations. Overall, this assignment was relatively difficult.
+I felt a little underprepared for the assignment, but for the most part what
+we covered in class and lab the week of the due date helped to make up for
+and help solve the issues I was having.
